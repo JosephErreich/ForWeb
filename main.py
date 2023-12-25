@@ -13,4 +13,5 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
+print("Add new commit and push")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
